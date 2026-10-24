@@ -18,9 +18,14 @@ Before a sales team reaches out to anyone, it needs to know who it should be sel
    - **Strategy:** the angle and the outreach sequence
 4. Combine the scores into an overall grade and next action
 
+## Product
+
+I'm approaching this as a BDR selling **[Clay](https://clay.com)**, the GTM data and enrichment platform.
+
 ## Output
 
-_Coming soon: ICP document and prospect reports._
+- ✅ [Ideal Customer Profile: Clay](IDEAL-CUSTOMER-PROFILE.md): firmographics, buying signals, pain points, personas, negative ICP, a 100-point scoring rubric, and a prospecting playbook
+- ⏳ Prospect reports for 3 target accounts, scored against the ICP
 
 ## What I learned
 
