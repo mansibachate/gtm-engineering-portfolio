@@ -17,8 +17,9 @@ This repo collects the go-to-market workflows I build: account research, lead qu
 | # | Project | What it does | Status |
 |---|---|---|---|
 | 01 | [ICP & account research](projects/01-icp-account-research/) | Defines an ideal customer profile for a real SaaS product and runs AI-assisted research and scoring on target accounts | In progress |
-| 02 | Signal-based lead list | Finds companies showing a buying signal, identifies decision-makers, and drafts a personalized opener | Planned |
-| 03 | Inbound lead router | Form → enrichment → scoring → CRM → Slack alert, built on open-source tools | Planned |
+| 02 | [ICP & account research: Basis](projects/02-icp-basis/) | The same method applied to a very different market: AI agents sold to accounting firms | In progress |
+| 03 | Signal-based lead list | Finds companies showing a buying signal, identifies decision-makers, and drafts a personalized opener | Planned |
+| 04 | Inbound lead router | Form → enrichment → scoring → CRM → Slack alert, built on open-source tools | Planned |
 
 ## Stack
 
