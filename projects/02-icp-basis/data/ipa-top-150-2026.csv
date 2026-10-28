@@ -1,0 +1,151 @@
+rank,firm,hq,net_revenue_usd,leader
+1,Deloitte,"New York",35687000000,Jason Girzadas
+2,PwC,"New York",25574000000,Paul Griggs
+3,Ernst & Young LLP,"New York",24741000000,Julie Boland
+4,KPMG,"New York",15900000000,Bill Thomas
+5,RSM US LLP,"Chicago",4199405000,Brian Becker
+6,Baker Tilly,"Chicago",3667100000,Eric Miles
+7,BDO USA,"Chicago",3018000000,Matt Becker
+8,CBIZ & CBIZ CPAs PC,"Cleveland / New York",2810000000,Jerry Grisko / Jeffrey Gluck
+9,Grant Thornton,"Chicago",2457089000,Jim Peko
+10,Forvis Mazars LLP,"",2318854000,Tom Watson
+11,CLA,"",2103000000,Jennifer Leary
+12,Crowe LLP,"Chicago",1391301000,Steven Strammello
+13,Plante Moran,"Southfield, Mich.",1295889000,Jason Drake
+14,Eisner Advisory Group LLC,"New York",1235173980,Charles Weinstein
+15,CohnReznick Advisory LLC,"Parsippany, N.J.",1119024063,David Kessler
+16,Citrin Cooperman,"New York",985000000,Alan Badey
+17,Andersen,"San Francisco",838692000,Mark L. Vorsatz
+18,Eide Bailly,"",835388000,Jeremy Hauk
+19,Cherry Bekaert,"Raleigh, N.C.",812000000,Michelle Thompson
+20,WithumSmith+Brown PC,"Princeton, N.J.",764962000,Patrick Walsh
+21,Armanino Advisory LLC,"San Ramon, Calif.",699739502,Matt Armanino
+22,Aprio Advisory Group LLC,"Atlanta",681340032,Richard Kopelman
+23,Wipfli LLP,"Milwaukee",637800000,Kurt Gresens
+24,Carr Riggs & Ingram,"Enterprise, Ala.",583808454,Dee Burger
+25,Sikich,"Chicago",529524707,Christopher Geier
+26,PKF O'Connor Davies,"Harrison, N.Y.",458000000,Kevin J. Keane
+27,UHY,"Farmington Hills, Mich.",412900000,Steven P. McCarty
+28,Weaver,"Houston",404882661,John J. Mackel
+29,Holthouse Carlin & Van Trigt LLP,"Los Angeles",291728601,Vicken Haleblian
+30,Kearney & Company PC,"Alexandria, Va.",290099743,Brian Kearney
+31,RubinBrown LLP,"St. Louis",265188000,Steven L. Harris
+32,BPM LLP,"San Francisco",255192000,Jim Wallace
+33,Novogradac & Company LLP,"San Francisco",254664752,Michael J. Novogradac
+34,Whitley Penn,"Fort Worth, Texas",254265383,Nathen McEown
+35,LBMC PC,"Brentwood, Tenn.",240793216,James Meade Jr.
+36,Doeren Mayhew,"Troy, Mich.",240080000,Chad Anschuetz
+37,Frank Rimerman + Co. LLP,"San Jose, Calif.",238438732,Michael Rewkiewicz
+38,Rehmann LLC,"Troy, Mich.",236066134,Stacie Kwaiser
+39,Cohen & Co,"Cleveland",219352787,Chris Bellamy
+40,Katz Sapper & Miller,"Indianapolis",215262184,Tim Cook
+41,Elliott Davis,"Greenville, S.C.",212000000,John L. Otten
+42,BerryDunn,"Portland, Maine",200712978,Sarah Belliveau
+43,Frazier & Deeter Advisory LLC,"Atlanta",198476000,Jeremy Jones
+44,Schellman,"Tampa, Fla.",197299236,Avani Desai
+45,Bonadio & Co. LLP,"Pittsford, N.Y.",195229651,Bruce Zicari
+46,Sorren,"Meridian, Idaho",193296588,Josh Tyree
+47,Richey May Advisory LLC,"Englewood, Colo.",190104383,Jason Yetter
+48,Hill Barth & King LLC,"Canfield, Ohio",185185000,Tom Angelo
+49,Warren Averett,"Birmingham, Ala.",174367367,April Harry
+50,Kaufman Rossin,"Miami",174000000,Marc Feigelson
+51,Miller Cooper & Co. Ltd.,"Chicago",167457000,Kristen Fitzpatrick
+52,Grassi Advisory Group Inc.,"New York",160373550,Louis C. Grassi
+53,Anchin Block & Anchin LLP,"New York",158390000,Russell B. Shinsky
+54,Mauldin & Jenkins LLC,"Atlanta",158106017,V. Hanson Borders
+55,Pinion LLC,"Salina, Kan.",157843052,Jeffrey Wald
+56,Springline Advisory,"Dallas",153909000,Tim Brackney
+57,Blue & Co. LLC,"Carmel, Ind.",153421161,Brad Shaw
+58,RKL LLP,"Lancaster, Pa.",148233090,Ed Monborne
+59,Sax LLP,"Parsippany, N.J.",138000000,Joseph A. Damiano
+60,Schneider Downs & Co. Inc.,"Pittsburgh",137178100,Christopher S. McElroy / Steven D. Thompson
+61,Prager Metis,"New York",133702000,Lori Roth
+62,SC&H,"Hunt Valley, Md.",126000000,Pritpal Kalsi
+63,Bennett Thrasher LLP,"Atlanta",125028376,Jeff Call
+64,Smith + Howard,"Atlanta",114855000,Sean C. Taylor
+65,SingerLewak LLP,"Los Angeles",111801078,Jim Pitrat
+66,Dean Dorton Allen Ford PLLC,"Lexington, Ky.",108686006,Jason Miller
+67,H&CO,"Miami",108091681,Armando Hernandez
+68,Clark Schaefer Hackett & Co.,"Miamisburg, Ohio",106548574,Kerry Roe
+69,Wolf & Company PC,"Boston",105280000,Gerald R. Gagne
+70,Aldrich,"Lake Oswego, Ore.",103317052,John Lauseng
+71,Lutz,"Omaha, Neb.",96642124,Ryan Cook
+72,Archer Lewis,"Chicago",96000000,Jake Nice
+73,Brown Edwards & Company LLP,"Roanoke, Va.",95992232,Laura Sprouse
+74,Anders,"St. Louis",95805940,Robert Minkler Jr.
+75,PBMares LLP,"Newport News, Va.",94029479,Harvey L. Johnson
+76,Sensiba LLP,"San Jose, Calif.",92896429,Monic Ramirez
+77,Rea,"New Philadelphia, Ohio",88324613,Mark McKinley
+78,HoganTaylor LLP,"Tulsa, Okla.",86404364,Randy Nail
+79,HHM CPAs,"Chattanooga, Tenn.",85958632,James D. Hutcherson
+80,Cain Watters & Associates LLC,"Frisco, Texas",85786648,Dan Wicker
+81,KLR,"Providence, R.I.",85499574,Paul Oliveira
+82,BMSS LLC,"Birmingham, Ala.",83231784,Don Murphy
+83,PYA,"Knoxville, Tenn.",82502145,Martin D. Brown
+84,Gursey Schneider LLP,"Los Angeles",81215705,Stephan Wasserman
+85,Brady Martz,"Grand Forks, N.D.",79932000,Stacy DuToit
+86,Clark Nuber PS,"Bellevue, Wash.",79842028,Tom Sulewski
+87,GBQ Partners LLC,"Columbus, Ohio",78187086,Darci L. Congrove
+88,Miller Kaplan,"Burbank, Calif.",75000000,Michael Kaplan
+89,Nichols Cauley,"Dublin, Ga.",74972791,Alan Whitman
+90,Prosperity Partners,"Chicago",73078000,Jeremy Dubow
+91,AAFCPAs Inc.,"Westborough, Mass.",72900000,Carla McCall
+92,Wiss & Company LLP,"Florham Park, N.J.",72000000,Paul Peterson
+93,Boulay PLLP,"Eden Prairie, Minn.",71546800,Thomas B. Johnson
+94,Haynie & Company,"Salt Lake City",70900640,Kent Christensen
+95,GHJ,"Los Angeles",70303000,Tom Barry
+96,Baker Newman Noyes,"Portland, Maine",70119441,Darren Hurlburt
+97,REDW LLC,"Albuquerque, N.M.",69792583,Steve Cogan
+98,Kemper CPA Group LLP,"Evansville, Ind.",69257857,John A. Rubenacker
+99,YHB | CPAs & Consultants,"Winchester, Va.",69146914,Thomas Milburn
+100,Global Tax Management Inc.,"Wayne, Pa.",67736406,David Sekula
+101,Tanner LLP,"Salt Lake City",64580642,Mark Erickson
+102,Honkamp PC,"Dubuque, Iowa",64314108,Katie Thomas
+103,AdamsBrown LLC,"Wichita, Kan.",58630070,Ben Wilson
+104,LMC Advisors LLC,"New York",57381763,Lee M. Cohen
+105,GRF CPAs & Advisors,"Bethesda, Md.",57068652,Jacqueline Cardello
+106,Windes,"Long Beach, Calif.",56471206,Sean McFerson
+107,Johnson Lambert LLP,"Raleigh, N.C.",55905893,Brandy Vannoy
+108,Meaden & Moore LLP,"Cleveland",55760763,Jim Rollins
+109,ATA,"Jackson, Tenn.",55062359,John Whybrew
+110,Yeo & Yeo PC,"Saginaw, Mich.",54700522,David R. Youngstrom
+111,James Moore & Co. PL,"Gainesville, Fla.",53598374,Suzanne Forbes
+112,Redpath and Company LLC,"St. Paul, Minn.",52594000,Ryan Everhart
+113,Reid Accountants + Advisors,"Woodbury, N.Y.",52516300,Jason Saladino
+114,Roth and Company LLP,"Brooklyn, N.Y.",52047153,Zacharia Waxler
+115,Maxwell Locke & Ritter LLP,"Austin, Texas",51930989,Kyle Parks
+116,Maner Costerisan PC,"Lansing, Mich.",50969221,Edward (Trey) L. Williams III
+117,Abdo LLP,"Edina, Minn.",50832772,Steven R. McDonald
+118,Porte Brown LLC,"Elk Grove Village, Ill.",50431319,Joseph A. Gleba
+119,Hutchinson & Bloodgood LLP,"Glendale, Calif.",48976467,Richard Preciado
+120,Centri,"Philadelphia",48850000,Michael Aiello
+121,Barnes Dennig,"Cincinnati",48718789,Jay Rammes
+122,Squire & Co. PC,"Orem, Utah",48691811,Jonyce Bullock
+123,Windham Brannon LLC,"Atlanta",48593753,Heidi L. Lamarca
+124,SVA Certified Public Accountants SC,"Madison, Wis.",48353966,Matt Vanderloo
+125,TJT,"Raleigh, N.C.",47628585,Jeff Brovet
+126,Moore Colson,"Atlanta",47177860,Andy Starnes
+127,Gray Gray & Gray LLP,"Canton, Mass.",47134582,James A. Deleo
+128,GreerWalker LLP,"Charlotte, N.C.",46810777,John M. Norman
+129,Mowery & Schoenfeld LLC,"Lincolnshire, Ill.",46496094,Jeffery Mowery
+130,KSDT,"Miami",46400000,Jeffrey Taraboulos
+131,Topel Forman LLC,"Chicago",46375089,David N. Levine
+132,Keiter,"Glen Allen, Va.",45928074,Gary Wallace
+133,Calibre CPA Group PLLC,"Bethesda, Md.",45652000,James E. Gomes
+134,BeachFleischman PLLC,"Tucson, Ariz.",45384109,Eric Majchrzak
+135,KerberRose,"Green Bay, Wis.",45267290,Michael Matuszak
+136,Walter Shuffain,"Boston",44200000,Jonathan Yorks
+137,Saville CPAs & Advisors LLC,"Dallas",43960667,Daniel DeLaughter
+138,Aline Accounting Partners,"Tampa, Fla.",43422000,Matt Lender
+139,Duffy Kruspodin LLP,"Woodland Hills, Calif.",42115279,Mark Kruspodin
+140,Jackson Thornton,"Montgomery, Ala.",41413276,Alan Alexander
+141,WilkinGuttenplan,"East Brunswick, N.J.",40791565,Daniel Fiorentino
+142,Frost PLLC,"Little Rock, Ark.",40198749,Robert A. Gunther
+143,MMB+CO,"Fairport, N.Y.",40135126,Mark Kovaleski
+144,Wegner CPAs LLP,"Madison, Wis.",40038165,Glenn Miller
+145,Opsahl Dawson & Company Advisors LLC,"Vancouver, Wash.",39988516,Aaron Dawson
+146,DMJPS PLLC,"Greensboro, N.C.",39811562,Drew Haddock
+147,Whittlesey PC,"Hartford, Conn.",39633693,Drew Andrews
+148,Lauterbach & Amen LLP,"Naperville, Ill.",39539832,Ron Amen
+149,Stambaugh Ness,"York, Pa.",39412757,Steven L. Hake
+150,ATLAS Navigators LLC,"Colorado Springs, Colo.",39409000,Loni Woodley

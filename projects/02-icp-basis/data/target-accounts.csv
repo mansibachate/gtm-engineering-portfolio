@@ -1,0 +1,151 @@
+rank,firm,hq,net_revenue_usd,leader,status,reason
+1,Deloitte,New York,35687000000,Jason Girzadas,remove,Big 4
+2,PwC,New York,25574000000,Paul Griggs,remove,Big 4
+3,Ernst & Young LLP,New York,24741000000,Julie Boland,remove,Big 4
+4,KPMG,New York,15900000000,Bill Thomas,remove,Big 4
+5,RSM US LLP,Chicago,4199405000,Brian Becker,tier 2,very large firm: enterprise-style sale
+6,Baker Tilly,Chicago,3667100000,Eric Miles,remove,already a Basis customer
+7,BDO USA,Chicago,3018000000,Matt Becker,tier 2,very large firm: enterprise-style sale
+8,CBIZ & CBIZ CPAs PC,Cleveland / New York,2810000000,Jerry Grisko / Jeffrey Gluck,tier 2,very large firm: enterprise-style sale
+9,Grant Thornton,Chicago,2457089000,Jim Peko,tier 2,very large firm: enterprise-style sale
+10,Forvis Mazars LLP,,2318854000,Tom Watson,tier 2,very large firm: enterprise-style sale
+11,CLA,,2103000000,Jennifer Leary,tier 2,very large firm: enterprise-style sale
+12,Crowe LLP,Chicago,1391301000,Steven Strammello,tier 2,very large firm: enterprise-style sale
+13,Plante Moran,"Southfield, Mich.",1295889000,Jason Drake,tier 2,very large firm: enterprise-style sale
+14,Eisner Advisory Group LLC,New York,1235173980,Charles Weinstein,tier 2,very large firm: enterprise-style sale
+15,CohnReznick Advisory LLC,"Parsippany, N.J.",1119024063,David Kessler,remove,already a Basis customer
+16,Citrin Cooperman,New York,985000000,Alan Badey,remove,already a Basis customer
+17,Andersen,San Francisco,838692000,Mark L. Vorsatz,tier 2,very large firm: enterprise-style sale
+18,Eide Bailly,,835388000,Jeremy Hauk,tier 2,very large firm: enterprise-style sale
+19,Cherry Bekaert,"Raleigh, N.C.",812000000,Michelle Thompson,tier 2,very large firm: enterprise-style sale
+20,WithumSmith+Brown PC,"Princeton, N.J.",764962000,Patrick Walsh,tier 2,very large firm: enterprise-style sale
+21,Armanino Advisory LLC,"San Ramon, Calif.",699739502,Matt Armanino,tier 2,very large firm: enterprise-style sale
+22,Aprio Advisory Group LLC,Atlanta,681340032,Richard Kopelman,tier 2,very large firm: enterprise-style sale
+23,Wipfli LLP,Milwaukee,637800000,Kurt Gresens,tier 2,very large firm: enterprise-style sale
+24,Carr Riggs & Ingram,"Enterprise, Ala.",583808454,Dee Burger,tier 1,in the sweet spot
+25,Sikich,Chicago,529524707,Christopher Geier,remove,already a Basis customer
+26,PKF O'Connor Davies,"Harrison, N.Y.",458000000,Kevin J. Keane,tier 1,in the sweet spot
+27,UHY,"Farmington Hills, Mich.",412900000,Steven P. McCarty,remove,already a Basis customer
+28,Weaver,Houston,404882661,John J. Mackel,tier 1,in the sweet spot
+29,Holthouse Carlin & Van Trigt LLP,Los Angeles,291728601,Vicken Haleblian,tier 1,in the sweet spot
+30,Kearney & Company PC,"Alexandria, Va.",290099743,Brian Kearney,check,government audit specialist
+31,RubinBrown LLP,St. Louis,265188000,Steven L. Harris,tier 1,in the sweet spot
+32,BPM LLP,San Francisco,255192000,Jim Wallace,tier 1,in the sweet spot
+33,Novogradac & Company LLP,San Francisco,254664752,Michael J. Novogradac,tier 1,in the sweet spot
+34,Whitley Penn,"Fort Worth, Texas",254265383,Nathen McEown,tier 1,in the sweet spot
+35,LBMC PC,"Brentwood, Tenn.",240793216,James Meade Jr.,tier 1,in the sweet spot
+36,Doeren Mayhew,"Troy, Mich.",240080000,Chad Anschuetz,tier 1,in the sweet spot
+37,Frank Rimerman + Co. LLP,"San Jose, Calif.",238438732,Michael Rewkiewicz,tier 1,in the sweet spot
+38,Rehmann LLC,"Troy, Mich.",236066134,Stacie Kwaiser,tier 1,in the sweet spot
+39,Cohen & Co,Cleveland,219352787,Chris Bellamy,tier 1,in the sweet spot
+40,Katz Sapper & Miller,Indianapolis,215262184,Tim Cook,tier 1,in the sweet spot
+41,Elliott Davis,"Greenville, S.C.",212000000,John L. Otten,tier 1,in the sweet spot
+42,BerryDunn,"Portland, Maine",200712978,Sarah Belliveau,tier 1,in the sweet spot
+43,Frazier & Deeter Advisory LLC,Atlanta,198476000,Jeremy Jones,tier 1,in the sweet spot
+44,Schellman,"Tampa, Fla.",197299236,Avani Desai,check,cybersecurity compliance audits
+45,Bonadio & Co. LLP,"Pittsford, N.Y.",195229651,Bruce Zicari,tier 1,in the sweet spot
+46,Sorren,"Meridian, Idaho",193296588,Josh Tyree,tier 1,in the sweet spot
+47,Richey May Advisory LLC,"Englewood, Colo.",190104383,Jason Yetter,tier 1,in the sweet spot
+48,Hill Barth & King LLC,"Canfield, Ohio",185185000,Tom Angelo,tier 1,in the sweet spot
+49,Warren Averett,"Birmingham, Ala.",174367367,April Harry,tier 1,in the sweet spot
+50,Kaufman Rossin,Miami,174000000,Marc Feigelson,remove,already a Basis customer
+51,Miller Cooper & Co. Ltd.,Chicago,167457000,Kristen Fitzpatrick,tier 1,in the sweet spot
+52,Grassi Advisory Group Inc.,New York,160373550,Louis C. Grassi,tier 1,in the sweet spot
+53,Anchin Block & Anchin LLP,New York,158390000,Russell B. Shinsky,tier 1,in the sweet spot
+54,Mauldin & Jenkins LLC,Atlanta,158106017,V. Hanson Borders,tier 1,in the sweet spot
+55,Pinion LLC,"Salina, Kan.",157843052,Jeffrey Wald,remove,already a Basis customer
+56,Springline Advisory,Dallas,153909000,Tim Brackney,tier 1,in the sweet spot
+57,Blue & Co. LLC,"Carmel, Ind.",153421161,Brad Shaw,tier 1,in the sweet spot
+58,RKL LLP,"Lancaster, Pa.",148233090,Ed Monborne,tier 1,in the sweet spot
+59,Sax LLP,"Parsippany, N.J.",138000000,Joseph A. Damiano,tier 1,in the sweet spot
+60,Schneider Downs & Co. Inc.,Pittsburgh,137178100,Christopher S. McElroy / Steven D. Thompson,remove,already a Basis customer
+61,Prager Metis,New York,133702000,Lori Roth,tier 1,in the sweet spot
+62,SC&H,"Hunt Valley, Md.",126000000,Pritpal Kalsi,tier 1,in the sweet spot
+63,Bennett Thrasher LLP,Atlanta,125028376,Jeff Call,tier 1,in the sweet spot
+64,Smith + Howard,Atlanta,114855000,Sean C. Taylor,tier 1,in the sweet spot
+65,SingerLewak LLP,Los Angeles,111801078,Jim Pitrat,tier 1,in the sweet spot
+66,Dean Dorton Allen Ford PLLC,"Lexington, Ky.",108686006,Jason Miller,tier 1,in the sweet spot
+67,H&CO,Miami,108091681,Armando Hernandez,tier 1,in the sweet spot
+68,Clark Schaefer Hackett & Co.,"Miamisburg, Ohio",106548574,Kerry Roe,tier 1,in the sweet spot
+69,Wolf & Company PC,Boston,105280000,Gerald R. Gagne,tier 1,in the sweet spot
+70,Aldrich,"Lake Oswego, Ore.",103317052,John Lauseng,tier 1,in the sweet spot
+71,Lutz,"Omaha, Neb.",96642124,Ryan Cook,remove,already a Basis customer
+72,Archer Lewis,Chicago,96000000,Jake Nice,tier 1,in the sweet spot
+73,Brown Edwards & Company LLP,"Roanoke, Va.",95992232,Laura Sprouse,tier 1,in the sweet spot
+74,Anders,St. Louis,95805940,Robert Minkler Jr.,remove,already a Basis customer
+75,PBMares LLP,"Newport News, Va.",94029479,Harvey L. Johnson,tier 1,in the sweet spot
+76,Sensiba LLP,"San Jose, Calif.",92896429,Monic Ramirez,tier 1,in the sweet spot
+77,Rea,"New Philadelphia, Ohio",88324613,Mark McKinley,remove,already a Basis customer
+78,HoganTaylor LLP,"Tulsa, Okla.",86404364,Randy Nail,tier 1,in the sweet spot
+79,HHM CPAs,"Chattanooga, Tenn.",85958632,James D. Hutcherson,tier 1,in the sweet spot
+80,Cain Watters & Associates LLC,"Frisco, Texas",85786648,Dan Wicker,check,dental practice planning
+81,KLR,"Providence, R.I.",85499574,Paul Oliveira,tier 1,in the sweet spot
+82,BMSS LLC,"Birmingham, Ala.",83231784,Don Murphy,tier 1,in the sweet spot
+83,PYA,"Knoxville, Tenn.",82502145,Martin D. Brown,tier 1,in the sweet spot
+84,Gursey Schneider LLP,Los Angeles,81215705,Stephan Wasserman,tier 1,in the sweet spot
+85,Brady Martz,"Grand Forks, N.D.",79932000,Stacy DuToit,tier 1,in the sweet spot
+86,Clark Nuber PS,"Bellevue, Wash.",79842028,Tom Sulewski,remove,already a Basis customer
+87,GBQ Partners LLC,"Columbus, Ohio",78187086,Darci L. Congrove,tier 1,in the sweet spot
+88,Miller Kaplan,"Burbank, Calif.",75000000,Michael Kaplan,tier 1,in the sweet spot
+89,Nichols Cauley,"Dublin, Ga.",74972791,Alan Whitman,tier 1,in the sweet spot
+90,Prosperity Partners,Chicago,73078000,Jeremy Dubow,tier 1,in the sweet spot
+91,AAFCPAs Inc.,"Westborough, Mass.",72900000,Carla McCall,tier 1,in the sweet spot
+92,Wiss & Company LLP,"Florham Park, N.J.",72000000,Paul Peterson,remove,already a Basis customer
+93,Boulay PLLP,"Eden Prairie, Minn.",71546800,Thomas B. Johnson,remove,already a Basis customer
+94,Haynie & Company,Salt Lake City,70900640,Kent Christensen,tier 1,in the sweet spot
+95,GHJ,Los Angeles,70303000,Tom Barry,tier 1,in the sweet spot
+96,Baker Newman Noyes,"Portland, Maine",70119441,Darren Hurlburt,tier 1,in the sweet spot
+97,REDW LLC,"Albuquerque, N.M.",69792583,Steve Cogan,remove,already a Basis customer
+98,Kemper CPA Group LLP,"Evansville, Ind.",69257857,John A. Rubenacker,tier 1,in the sweet spot
+99,YHB | CPAs & Consultants,"Winchester, Va.",69146914,Thomas Milburn,tier 1,in the sweet spot
+100,Global Tax Management Inc.,"Wayne, Pa.",67736406,David Sekula,check,outsourced tax compliance
+101,Tanner LLP,Salt Lake City,64580642,Mark Erickson,tier 1,in the sweet spot
+102,Honkamp PC,"Dubuque, Iowa",64314108,Katie Thomas,tier 1,in the sweet spot
+103,AdamsBrown LLC,"Wichita, Kan.",58630070,Ben Wilson,tier 1,in the sweet spot
+104,LMC Advisors LLC,New York,57381763,Lee M. Cohen,tier 1,in the sweet spot
+105,GRF CPAs & Advisors,"Bethesda, Md.",57068652,Jacqueline Cardello,tier 1,in the sweet spot
+106,Windes,"Long Beach, Calif.",56471206,Sean McFerson,tier 1,in the sweet spot
+107,Johnson Lambert LLP,"Raleigh, N.C.",55905893,Brandy Vannoy,tier 1,in the sweet spot
+108,Meaden & Moore LLP,Cleveland,55760763,Jim Rollins,tier 1,in the sweet spot
+109,ATA,"Jackson, Tenn.",55062359,John Whybrew,tier 1,in the sweet spot
+110,Yeo & Yeo PC,"Saginaw, Mich.",54700522,David R. Youngstrom,tier 1,in the sweet spot
+111,James Moore & Co. PL,"Gainesville, Fla.",53598374,Suzanne Forbes,tier 1,in the sweet spot
+112,Redpath and Company LLC,"St. Paul, Minn.",52594000,Ryan Everhart,tier 1,in the sweet spot
+113,Reid Accountants + Advisors,"Woodbury, N.Y.",52516300,Jason Saladino,tier 1,in the sweet spot
+114,Roth and Company LLP,"Brooklyn, N.Y.",52047153,Zacharia Waxler,tier 1,in the sweet spot
+115,Maxwell Locke & Ritter LLP,"Austin, Texas",51930989,Kyle Parks,tier 1,in the sweet spot
+116,Maner Costerisan PC,"Lansing, Mich.",50969221,Edward (Trey) L. Williams III,tier 1,in the sweet spot
+117,Abdo LLP,"Edina, Minn.",50832772,Steven R. McDonald,tier 1,in the sweet spot
+118,Porte Brown LLC,"Elk Grove Village, Ill.",50431319,Joseph A. Gleba,tier 1,in the sweet spot
+119,Hutchinson & Bloodgood LLP,"Glendale, Calif.",48976467,Richard Preciado,tier 1,in the sweet spot
+120,Centri,Philadelphia,48850000,Michael Aiello,tier 1,in the sweet spot
+121,Barnes Dennig,Cincinnati,48718789,Jay Rammes,tier 1,in the sweet spot
+122,Squire & Co. PC,"Orem, Utah",48691811,Jonyce Bullock,tier 1,in the sweet spot
+123,Windham Brannon LLC,Atlanta,48593753,Heidi L. Lamarca,tier 1,in the sweet spot
+124,SVA Certified Public Accountants SC,"Madison, Wis.",48353966,Matt Vanderloo,tier 1,in the sweet spot
+125,TJT,"Raleigh, N.C.",47628585,Jeff Brovet,tier 1,in the sweet spot
+126,Moore Colson,Atlanta,47177860,Andy Starnes,tier 1,in the sweet spot
+127,Gray Gray & Gray LLP,"Canton, Mass.",47134582,James A. Deleo,tier 1,in the sweet spot
+128,GreerWalker LLP,"Charlotte, N.C.",46810777,John M. Norman,tier 1,in the sweet spot
+129,Mowery & Schoenfeld LLC,"Lincolnshire, Ill.",46496094,Jeffery Mowery,tier 1,in the sweet spot
+130,KSDT,Miami,46400000,Jeffrey Taraboulos,tier 1,in the sweet spot
+131,Topel Forman LLC,Chicago,46375089,David N. Levine,tier 1,in the sweet spot
+132,Keiter,"Glen Allen, Va.",45928074,Gary Wallace,tier 1,in the sweet spot
+133,Calibre CPA Group PLLC,"Bethesda, Md.",45652000,James E. Gomes,tier 1,in the sweet spot
+134,BeachFleischman PLLC,"Tucson, Ariz.",45384109,Eric Majchrzak,tier 1,in the sweet spot
+135,KerberRose,"Green Bay, Wis.",45267290,Michael Matuszak,tier 1,in the sweet spot
+136,Walter Shuffain,Boston,44200000,Jonathan Yorks,tier 1,in the sweet spot
+137,Saville CPAs & Advisors LLC,Dallas,43960667,Daniel DeLaughter,tier 1,in the sweet spot
+138,Aline Accounting Partners,"Tampa, Fla.",43422000,Matt Lender,tier 1,in the sweet spot
+139,Duffy Kruspodin LLP,"Woodland Hills, Calif.",42115279,Mark Kruspodin,tier 1,in the sweet spot
+140,Jackson Thornton,"Montgomery, Ala.",41413276,Alan Alexander,tier 1,in the sweet spot
+141,WilkinGuttenplan,"East Brunswick, N.J.",40791565,Daniel Fiorentino,tier 1,in the sweet spot
+142,Frost PLLC,"Little Rock, Ark.",40198749,Robert A. Gunther,tier 1,in the sweet spot
+143,MMB+CO,"Fairport, N.Y.",40135126,Mark Kovaleski,tier 1,in the sweet spot
+144,Wegner CPAs LLP,"Madison, Wis.",40038165,Glenn Miller,tier 1,in the sweet spot
+145,Opsahl Dawson & Company Advisors LLC,"Vancouver, Wash.",39988516,Aaron Dawson,tier 1,in the sweet spot
+146,DMJPS PLLC,"Greensboro, N.C.",39811562,Drew Haddock,tier 1,in the sweet spot
+147,Whittlesey PC,"Hartford, Conn.",39633693,Drew Andrews,tier 1,in the sweet spot
+148,Lauterbach & Amen LLP,"Naperville, Ill.",39539832,Ron Amen,tier 1,in the sweet spot
+149,Stambaugh Ness,"York, Pa.",39412757,Steven L. Hake,tier 1,in the sweet spot
+150,ATLAS Navigators LLC,"Colorado Springs, Colo.",39409000,Loni Woodley,tier 1,in the sweet spot
